@@ -12,8 +12,8 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-usrms-projects.vercel.app/api?username=ushiromuki&theme=vue-dark&layout=compact&count_private=true" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-usrms-projects.vercel.app/api/top-langs/?username=ushiromuki&theme=vue-dark&layout=compact&count_private=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-usrms-projects.vercel.app/api?username=ushiromuki&theme=vue-dark&layout=compact&count_private=true&hide=Jupyter Notebook" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-usrms-projects.vercel.app/api/top-langs/?username=ushiromuki&theme=vue-dark&layout=compact&count_private=true&hide=Jupyter Notebook" />
 </div>
 
 <!--
